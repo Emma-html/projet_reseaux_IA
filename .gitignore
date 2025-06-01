@@ -1,0 +1,18 @@
+__pycache__/swarm_sim.cpython-312.pyc
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Environnement virtuel
+venv/
+.env/
+
+# Fichiers de config perso
+*.env
+*.sqlite3
+*.log
+
+# IDEs
+.vscode/
+.idea/
